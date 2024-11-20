@@ -1,0 +1,7 @@
+.*/
+*.pth
+.DS_Store
+
+build/
+*.egg-info/
+__pycache__/

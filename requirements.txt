@@ -1,0 +1,11 @@
+mmengine==0.10.4
+mmdet==3.3.0
+mmsegmentation==1.2.2
+h5py
+timm==0.4.12
+triton
+packaging
+pytest
+nuscenes-devkit
+ftfy
+regex
