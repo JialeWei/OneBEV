@@ -1,4 +1,4 @@
-# OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping (ACCV 2024)
+# OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping (ACCV 2024 Oral)
 <p>
 <a href="https://arxiv.org/pdf/2409.13912">
     <img src="https://img.shields.io/badge/PDF-arXiv-brightgreen" /></a>
@@ -135,10 +135,10 @@ We appreciate the previous open-source works.
 If you are interested in this work, please cite as below:
 
 ```text
-@article{wei2024onebev,
+@inproceedings{wei2024onebev,
   title={OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping},
   author={Wei, Jiale and Zheng, Junwei and Liu, Ruiping and Hu, Jie and Zhang, Jiaming and Stiefelhagen, Rainer},
-  journal={arXiv preprint arXiv:2409.13912},
+  booktitle={ACCV},
   year={2024}
 }
 ```
