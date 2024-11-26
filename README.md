@@ -46,7 +46,7 @@ Our extended datasets:
 - NuScene-360 (41.77GB, ~51GB after extracted. **Download from [Google Drive](https://drive.google.com/drive/folders/1G5IvJO3j_ZdKFCVKu7M6RYQXwrSKDTMU?usp=sharing)**)
 - DeepAccident-360 (55.27GB, ~57GB after extracted. **Download from [Google Drive](https://drive.google.com/drive/folders/1G5IvJO3j_ZdKFCVKu7M6RYQXwrSKDTMU?usp=sharing)**)
 
-Data statistics of 360BEV datasets:
+Data statistics of OneBEV datasets:
 
 | Dataset  | Scene   | Frame | Category |
 |-------------------|:---------------:|:----------------:|:-------------------:|
