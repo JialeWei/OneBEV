@@ -9,3 +9,4 @@ pytest
 nuscenes-devkit
 ftfy
 regex
+numpy==1.26.4
