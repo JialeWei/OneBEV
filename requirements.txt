@@ -8,5 +8,6 @@ packaging
 pytest
 nuscenes-devkit
 ftfy
+fvcore
 regex
 numpy==1.26.4
